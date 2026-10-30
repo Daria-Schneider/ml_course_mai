@@ -6,3 +6,9 @@ venv/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# данные соревнования Kaggle - распространять нельзя
+classification/data/kaggle/
+
+# личные заметки
+*разбор_для_себя*
